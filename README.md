@@ -1,2 +1,2 @@
-# pytest cache directory #
+# Python操作数据导入到数据库 #
 本案例是将两个文件中的数据通过python操作导入数据库
